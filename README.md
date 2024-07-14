@@ -15,6 +15,3 @@ This project is a fun application of computer vision that creates an "invisibili
 - OpenCV library
 - NumPy library
 
-## Setup and Installation
-1. **Install Python**: Download and install Python from [python.org](https://www.python.org/downloads/).
-2. **Install Dependencies**: Run the following command to install the required Python libraries:
