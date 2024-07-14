@@ -1,6 +1,6 @@
 # invisible-cloak
 
-# Invisibility Cloak Project
+# Invisibility Cloak Mini-Project
 
 ## Overview
 This project is a fun application of computer vision that creates an "invisibility cloak" effect using a simple webcam. By using specific colors as the cloak, the program replaces these colors with the background, rendering the object (or person) covered by the color invisible.
