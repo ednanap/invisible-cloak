@@ -1,4 +1,3 @@
-# invisible-cloak
 
 # Invisibility Cloak Mini-Project
 
